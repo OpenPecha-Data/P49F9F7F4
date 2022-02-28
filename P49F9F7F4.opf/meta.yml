@@ -1,0 +1,20 @@
+id: P49F9F7F4
+initial_creation_type: input
+source_metadata:
+  title: Jatsön Nyingpo Series
+  language: es
+  description: 'Texts by and about the treasure-revealer Jatsön Nyingpo (’ja’ tshon
+    snying po, 1585–1656), whose revelations include the famous Könchok Chidü (dkon
+    mchog spyi ’dus) or ''Embodiment of the Three Jewels'':'
+  volume:
+    9493d2458f754b2bbfa51ba17ca83511:
+      title: The Guidebook to the Hidden Land of Pemokö
+      parent: Guidebooks
+    747f739ce4754c40a7ff2f6a0e44e816:
+      title: Maṇḍala Offering from the Tradition of Jatsön Nyingpo
+      parent: Offering
+    b0f8ccada159464aa6ff01610b50f974:
+      title: Prayer to Rigdzin Jatsön Nyingpo
+      parent: Prayers
+created_at: '2022-03-01T00:00:06.152049'
+last_modified_at: '2022-03-01T00:00:06.152051'
